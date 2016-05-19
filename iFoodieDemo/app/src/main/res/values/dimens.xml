@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="text_size_mini">8sp</dimen>
+    <dimen name="text_size_smallest">9sp</dimen>
+    <dimen name="text_size_smaller">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_larger">18sp</dimen>
+    <dimen name="text_size_largest">19sp</dimen>
+    <dimen name="text_size_big">20sp</dimen>
+    <dimen name="text_size_bigger">22dip</dimen>
+
+    <dimen name="space_5_dip">5dip</dimen>
+    <dimen name="space_7_dip">7dip</dimen>
+    <dimen name="space_10_dip">10dip</dimen>
+    <dimen name="space_15_dip">15dip</dimen>
+    <dimen name="space_20_dip">20dip</dimen>
+    <dimen name="space_30_dip">30dip</dimen>
+    <dimen name="space_40_dip">40dip</dimen>
+    <dimen name="space_50_dip">50dip</dimen>
+    <dimen name="space_60_dip">60dip</dimen>
+    <dimen name="space_65_dip">65dip</dimen>
+    <dimen name="space_70_dip">70dip</dimen>
+    <dimen name="space_75_dip">75dip</dimen>
+    <dimen name="space_80_dip">80dip</dimen>
+    <dimen name="space_200_dip">200dip</dimen>
+</resources>

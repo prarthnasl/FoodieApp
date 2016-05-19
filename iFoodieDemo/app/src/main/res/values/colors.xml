@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fec827</color>
+    <color name="white_color">#ffffffff</color>
+    <color name="text_color_grey">#ff636363</color>
+    <color name="divider">#ffdfdfdf</color>
+    <color name="dark_text_color">#ff4f4f4f</color>
+    <color name="common_gray_background">#fff8f8f8</color>
+    <color name="translucent_background">#aa000000</color>
+    <color name="colorPrimary">#6e140f</color>
+    <color name="translucent_black">#3f000000</color>
+    <color name="color_accent_light">#ffffd8e5</color>
+
+    <integer-array name="gplus_colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/color_accent_light</item>
+        <item>@color/colorAccent</item>
+    </integer-array>
+</resources>
